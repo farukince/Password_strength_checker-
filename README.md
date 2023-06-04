@@ -13,6 +13,7 @@ The password must contain at least one punctuation mark.
 If the entered password meets all of the above criteria, the program displays the message "Your password is best". Otherwise, it displays the message "Your password is bad".
 
 How to Use
+
 Install Python on your computer. 
 
 Download or clone the GitHub repository of this project to your computer.
