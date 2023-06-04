@@ -27,7 +27,9 @@ Download or clone the GitHub repository of this project to your computer.
 Open the terminal or command prompt and navigate to the project directory.
 
 Run the following command to start the program:
+
 python password_checker.py
+
 The program will prompt you to enter a password. Enter your password and press Enter.
 
 The program will evaluate the security level of your password. Based on the result, you will receive the message "Your password is best" or "Your password is bad".
