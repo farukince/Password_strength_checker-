@@ -5,11 +5,17 @@ The program prompts the user to enter a password and evaluates whether the passw
 It determines whether a password is "good" or "bad" based on the following criteria:
 
 The password must be at least 7 characters long.
+
 The password must be at most 15 characters long.
+
 The password must contain at least one lowercase letter.
+
 The password must contain at least one uppercase letter.
+
 The password must contain at least one digit.
+
 The password must contain at least one punctuation mark.
+
 If the entered password meets all of the above criteria, the program displays the message "Your password is best". Otherwise, it displays the message "Your password is bad".
 
 How to Use
