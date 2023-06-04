@@ -1,4 +1,5 @@
 Password Strength Checker
+
 This project is a simple Python program that checks the security level of a password. 
 The program prompts the user to enter a password and evaluates whether the password meets certain criteria. 
 It determines whether a password is "good" or "bad" based on the following criteria:
